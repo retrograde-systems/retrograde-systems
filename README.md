@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @retrograde-systems
+- 👀 I’m interested in retro game systems and tools.
+- 🌱 I’m currently learning RISC-V asm.
